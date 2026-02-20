@@ -76,4 +76,3 @@ Windows users: Try the included batch file:
 Make Shit Work.bat 😄
 ### Usage
 Go to the homepage → click "Draw Card" or "Start Harrowing" → enjoy your divination!
-(Expand with actual routes / UI flow if different, e.g. /draw, /reading, etc.)
